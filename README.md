@@ -41,3 +41,9 @@
 - [Grok Parser](https://github.com/kiyoto/fluent-plugin-grok-parser)
 - [Forest Plugin](https://github.com/tagomoris/fluent-plugin-forest)
 - [Retag Plugin](https://github.com/algas/fluent-plugin-retag)
+
+## REF
+- https://www.fluentd.org/guides/recipes/elasticsearch-and-s3
+- https://itlabvn.net/he-thong/cai-dat-va-cau-hinh-fluentd-ket-hop-graylog-server-phan-2
+- https://www.digitalocean.com/community/tutorials/how-to-centralize-your-docker-logs-with-fluentd-and-elasticsearch-on-ubuntu-16-04
+- http://www.alickwong.com/2017/08/02/managing-logs-using-fluentd-ubuntu/
